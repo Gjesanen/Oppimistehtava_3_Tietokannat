@@ -408,9 +408,6 @@ namespace WebStore.Assignments
                     Console.WriteLine($"  Store with max stock: {storeWithMaxStock.StoreName}");
 
 
-
-
-
                 }
             }
         }
