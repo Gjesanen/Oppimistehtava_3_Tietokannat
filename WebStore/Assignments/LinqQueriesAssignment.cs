@@ -406,6 +406,11 @@ namespace WebStore.Assignments
                 if (storeWithMaxStock != null)
                 {
                     Console.WriteLine($"  Store with max stock: {storeWithMaxStock.StoreName}");
+
+
+
+
+
                 }
             }
         }
